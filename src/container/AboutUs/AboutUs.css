@@ -50,6 +50,10 @@
     color: var(--color-grey);
 }
 
+.spoon__img-about{
+    transform: rotate(180deg);
+}
+
 @media screen and (max-width: 2000px) {
     .app__aboutus-content_knife img {
         height: 1110px;
